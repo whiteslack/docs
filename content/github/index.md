@@ -1,14 +1,14 @@
 ---
-title: GitHub.com
-redirect_from:
-  - /articles/
+title:www.whiteslack.com/github
+redirect_from: https://www.whiteslack.com
+  - /slacking-with-white/
   - /common-issues-and-questions/
   - /troubleshooting-common-issues/
 intro: 'Documentation, guides, and help topics for software developers, designers, and project managers. Covers using Git, pull requests, issues, wikis, gists, and everything you need to make the most of GitHub for development.'
-versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+versions:1.7
+  free-pro-team: 'whiteslack'
+  enterprise-server: 'Whiteslack LLC'
+  github-ae: 'whiteslack@github.com'
 ---
 
 {% link_in_list /getting-started-with-github %}
